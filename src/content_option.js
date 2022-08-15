@@ -8,11 +8,12 @@ const introdata = {
     title: "I’m Kashish Gupta",
     animated: {
         first: "2022 Engineering Graduate",
-        second: "I love coding and I work on Website Development",
-        third: "Working as ac Software Development Engineer",
+        second: "Coding is my passion",
+        third:"Have done my internship project on Front End Web Development",
+        fourth: "Currently working as a SDE on Desktop Applications Development"
     },
     description: "",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://media.istockphoto.com/id/1224500457/es/foto/formaci%C3%B3n-en-tecnolog%C3%ADa-abstracta-de-c%C3%B3digo-de-programaci%C3%B3n-del-desarrollador-de-software-y.webp?s=612x612&w=is&k=20&c=mvQmIC9V1HldK9WtIHnQrmQUPp5QkJgaWaNelnKoLLY=",
 };
 
 const dataabout = {
@@ -24,6 +25,12 @@ const Internship = [{
         where: "Microsoft",
         date: "Jan,2021-Jun,2021",
         data: "Worked on Microsoft Teams Web Client and contributed in improving User Experience for Feeds and Notifications."
+    },
+    {
+        jobtitle: "Software Development Engineer",
+        where: "Infineon Technologies",
+        date: "June,2022 onwards",
+        data: "Working on Desktop App Development for Infineon products which helps users to customize the behaviour/working of the product."
     }
 ];
 
